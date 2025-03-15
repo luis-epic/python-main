@@ -1,7 +1,7 @@
 # python
 
 
-Hola, Soy tu profesora Carli Code. Bienvenido al **Curso de Python**. Este curso está diseñado para llevarte desde los fundamentos del lenguaje hasta conceptos avanzados, utilizando tanto la Biblioteca Estándar de Python como librerías externas esenciales. A lo largo del curso, aprenderás a construir aplicaciones robustas y eficaces, y desarrollarás una comprensión profunda de cómo utilizar Python para resolver problemas de programación. Puedes acceder al curso completo en [Curso de Python de Platzi](https://platzi.com/cursos/python/).
+Hola. Bienvenido al **Curso de Python**. Este curso está diseñado para llevarte desde los fundamentos del lenguaje hasta conceptos avanzados, utilizando tanto la Biblioteca Estándar de Python como librerías externas esenciales. A lo largo del curso, aprenderás a construir aplicaciones robustas y eficaces, y desarrollarás una comprensión profunda de cómo utilizar Python para resolver problemas de programación. Puedes acceder al curso completo en [Curso de Python de Platzi](https://platzi.com/cursos/python/).
 
 
 ---
